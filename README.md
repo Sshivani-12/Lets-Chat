@@ -1,4 +1,4 @@
-##steps to follow before running this app:-
+## steps to follow before running this app:-
 
 - create-react-app first
 - npm install -g firebase-tools
