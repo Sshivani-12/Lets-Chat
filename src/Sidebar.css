@@ -31,7 +31,7 @@
 .sidebar_header{
     display: flex;
     justify-content: space-between;
-    padding: 20%;
+    padding: 20px;
     border-right: 1px solid lightgray;
 }
 
@@ -45,10 +45,4 @@
 .sidebar_headerRight > .MuiSvgIcon-root {
     margin-right: 2vw;
     font-size: 20px !important;
-}
-@media screen and (max-width:760px){
-    .sidebar_header
-{
-    display:none;
-}
 }

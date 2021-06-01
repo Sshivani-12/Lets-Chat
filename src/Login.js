@@ -23,7 +23,7 @@ function Login() {
            <div className="login_container">
                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt=""/> 
                 <div className="login_text">
-                    <h1>Sign in to Lets Chat</h1>
+                    <h1>Lets Chat</h1>
                 </div>
                 <Button type="submit" onClick={signIn}>Sign in With Google</Button>
            </div>
